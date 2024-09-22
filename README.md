@@ -13,8 +13,7 @@ and pityriasis rubra pilaris)
 • www.kaggle.com/datasets/olcaybolat1/dermatology-dataset-classification
 
 3. Maternal Health Risk:
-• Number of samples: 1013, Number of attributes: 6, Number of classes: 3 (risk level
-– high, medium, low)
+• Number of samples: 1013, Number of attributes: 6, Number of classes: 3 (risk level high, medium, low)
 • archive.ics.uci.edu/dataset/863/maternal+health+risk
 
 4. Car dataset:
