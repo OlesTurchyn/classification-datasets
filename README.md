@@ -1,2 +1,2 @@
-# wine-quality-classifier
-Classification AI Project for determining wine quality
+# Classification Datasets
+A repository of datasets for classification tasks
