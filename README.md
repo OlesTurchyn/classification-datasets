@@ -18,8 +18,7 @@ and pityriasis rubra pilaris)
 • Number of samples: 1728, Number of attributes: 6, Number of classes: 4 (unacceptable, acceptable, good, very good)
 • archive.ics.uci.edu/dataset/19/car+evaluation
 5. Wine quality dataset:
-• Number of samples: 4898, Number of attributes: 11, Number of classes: 11 (0 to
-10)
+• Number of samples: 4898, Number of attributes: 11, Number of classes: 11 (0 to 10)
 • https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 6. 16 personalities dataset:
 • Number of samples: 60K, Number of attributes: 60, Number of classes: 16 (personality type)
